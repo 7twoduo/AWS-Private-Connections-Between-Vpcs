@@ -1,4 +1,4 @@
-# 🔗 Secure Multi-Tier AWS Application Platform with Private Database Connectivity
+# 🔗 AWS-Private-Connections-Between-Vpcs
 
 **Production-inspired AWS networking project with VPC peering, ALB, EC2, ECS on EC2, Flask, Docker, Terraform, and RDS MySQL**
 
